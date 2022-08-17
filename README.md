@@ -1,9 +1,8 @@
-# HelloMicroverse
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# HelloMicroverse
 
-- The main goals of this project are:
+The main goals of this project are:
 - Create branches with different base branches.
 - Understand the concept of version control.
 - Follow GitHub flow.
